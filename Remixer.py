@@ -6,6 +6,8 @@
 # used on a pythonsode-file the result can be quite funny
 
 
+# to make it work i had to take the backrefs folder out of the original directory and into the same directory as this .py file
+# probably unnecessary but I don't know how to improve on it right now ( 27.10.2017 )
 from backrefs import bre
 #https://github.com/facelessuser/sublime-backrefs
 import codecs
